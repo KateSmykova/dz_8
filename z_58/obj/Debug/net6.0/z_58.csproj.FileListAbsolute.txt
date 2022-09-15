@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\GB\C#\dz_8\z_58\bin\Debug\net6.0\z_58.exe
+C:\Users\Админ\Desktop\GB\C#\dz_8\z_58\bin\Debug\net6.0\z_58.deps.json
+C:\Users\Админ\Desktop\GB\C#\dz_8\z_58\bin\Debug\net6.0\z_58.runtimeconfig.json
+C:\Users\Админ\Desktop\GB\C#\dz_8\z_58\bin\Debug\net6.0\z_58.dll
+C:\Users\Админ\Desktop\GB\C#\dz_8\z_58\bin\Debug\net6.0\z_58.pdb
+C:\Users\Админ\Desktop\GB\C#\dz_8\z_58\obj\Debug\net6.0\z_58.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\GB\C#\dz_8\z_58\obj\Debug\net6.0\z_58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\GB\C#\dz_8\z_58\obj\Debug\net6.0\z_58.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\GB\C#\dz_8\z_58\obj\Debug\net6.0\z_58.AssemblyInfo.cs
+C:\Users\Админ\Desktop\GB\C#\dz_8\z_58\obj\Debug\net6.0\z_58.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\GB\C#\dz_8\z_58\obj\Debug\net6.0\z_58.dll
+C:\Users\Админ\Desktop\GB\C#\dz_8\z_58\obj\Debug\net6.0\refint\z_58.dll
+C:\Users\Админ\Desktop\GB\C#\dz_8\z_58\obj\Debug\net6.0\z_58.pdb
+C:\Users\Админ\Desktop\GB\C#\dz_8\z_58\obj\Debug\net6.0\z_58.genruntimeconfig.cache
+C:\Users\Админ\Desktop\GB\C#\dz_8\z_58\obj\Debug\net6.0\ref\z_58.dll
